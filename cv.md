@@ -28,4 +28,4 @@ _in progress_
 - RS School
 
 ## English level:
-_A1_
+_A2_
