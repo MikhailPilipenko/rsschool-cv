@@ -13,3 +13,19 @@ _Passionate about IT_
 - JS
 - Java
 
+## Code example:
+```
+console.log('Hello World!');
+```
+
+## Work experience:
+_in progress_
+
+## Education:
+- Sukhoi State Technical University Of Gomel
+- Belarusian Trade and Economics University of Consumer Cooperatives
+- IT Class
+- RS School
+
+## English level:
+_A1_
