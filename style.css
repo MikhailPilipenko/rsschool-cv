@@ -66,3 +66,25 @@ code {
 .section__content p {
   font-style: italic;
 }
+
+footer {
+	display: flex;
+	flex-direction: column; 
+}
+
+.rs-school__logo {
+	width: 100px;
+}
+
+figure {
+	background: #89949c;
+    padding: 10px;
+    width: 150px;
+	margin: 0 0 20px 0;
+    text-align: center;
+	border-radius: 10px;
+}
+
+.footer__year {
+	text-align: center;
+}
