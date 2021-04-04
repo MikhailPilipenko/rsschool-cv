@@ -1,0 +1,90 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #424242;
+  line-height: 1.4;
+}
+
+address {
+  font: inherit;
+}
+
+a,
+a:visited {
+  color: #3e83d1;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+code {
+  background: #5f5a5a11;
+  padding: 15px;
+}
+
+.cv {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+.section {
+  margin-bottom: 30px;
+}
+
+.section-name {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.section__title {
+  border-bottom: 1px solid #423e3e52;
+}
+
+.section-name .section__title {
+  font-size: 36px;
+  font-weight: 700;
+  border-bottom: none;
+}
+
+.section-name .section__content {
+  margin-left: 40px;
+}
+
+.section-name .section__avatar {
+  max-width: 300px;
+  height: auto;
+}
+
+.section__content span {
+  font-weight: 700;
+}
+
+.section__content p {
+  font-style: italic;
+}
+
+footer {
+	display: flex;
+	flex-direction: column; 
+}
+
+.rs-school__logo {
+	width: 100px;
+}
+
+figure {
+	background: #89949c;
+    padding: 10px;
+    width: 150px;
+	margin: 0 0 20px 0;
+    text-align: center;
+	border-radius: 10px;
+}
+
+.footer__year {
+	text-align: center;
+}
